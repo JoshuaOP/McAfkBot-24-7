@@ -10,6 +10,7 @@
  - node index.js
 
  - version supported Java Server 1.8/1.18.2
-
+   
+ - go to https://uptimerobot.com/ to find out the monitor.
 <h1>Warning bot is not allowed on bedrock Edition 
 Server.</h1>
