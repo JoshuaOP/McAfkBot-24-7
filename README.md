@@ -1,15 +1,15 @@
-#MCAfk Bot in Minecraft 
-The bot in minecraft! 
+# MCAfk Bot in Minecraft 
+<h1>The bot in minecraft!</h1>
 
 #Install Bot Player. 
 
-1 - git clone https://github.com/JoshuaOP/McAfkBot-24-7
+ - git clone https://github.com/JoshuaOP/McAfkBot-24-7
 
-2 - npm install
+ - npm install
 
-3 - node index.js
+ - node index.js
 
-4 - version supported Java Server 1.8/1.18.2
+ - version supported Java Server 1.8/1.18.2
 
-Warning bot is not allowed on bedrock Edition 
-Server.
+<h1>Warning bot is not allowed on bedrock Edition 
+Server.</h1>
