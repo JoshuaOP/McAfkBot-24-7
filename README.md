@@ -1,4 +1,4 @@
-# MCAfk Bot in Minecraft 
+# <h6>MCAfk Bot in Minecraft</h6>
 <h1>The bot in minecraft!</h1>
 
 #Install Bot Player. 
